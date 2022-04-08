@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(){
-	printf("hello world! in branch1");
+	printf("hello world!");
 	return 0;
 }
